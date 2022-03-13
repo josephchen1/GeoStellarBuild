@@ -2,7 +2,7 @@
   "name": "stellarack",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://josephchen1.github.io/GeoStellar/geostellar/",
+  "homepage": "https://josephchen1.github.io/GeoStellarBuild",
   "dependencies": {
     "@emotion/react": "^11.8.1",
     "@emotion/styled": "^11.8.1",
