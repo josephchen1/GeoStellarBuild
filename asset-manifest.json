@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/GeoStellarBuild/static/css/main.7f9464cb.chunk.css",
+    "main.js": "/GeoStellarBuild/static/js/main.2ec3746f.chunk.js",
+    "main.js.map": "/GeoStellarBuild/static/js/main.2ec3746f.chunk.js.map",
+    "runtime-main.js": "/GeoStellarBuild/static/js/runtime-main.8a03a2fa.js",
+    "runtime-main.js.map": "/GeoStellarBuild/static/js/runtime-main.8a03a2fa.js.map",
+    "static/js/2.7a6d1677.chunk.js": "/GeoStellarBuild/static/js/2.7a6d1677.chunk.js",
+    "static/js/2.7a6d1677.chunk.js.map": "/GeoStellarBuild/static/js/2.7a6d1677.chunk.js.map",
+    "static/js/3.aba8daaa.chunk.js": "/GeoStellarBuild/static/js/3.aba8daaa.chunk.js",
+    "static/js/3.aba8daaa.chunk.js.map": "/GeoStellarBuild/static/js/3.aba8daaa.chunk.js.map",
+    "index.html": "/GeoStellarBuild/index.html",
+    "static/css/main.7f9464cb.chunk.css.map": "/GeoStellarBuild/static/css/main.7f9464cb.chunk.css.map",
+    "static/js/2.7a6d1677.chunk.js.LICENSE.txt": "/GeoStellarBuild/static/js/2.7a6d1677.chunk.js.LICENSE.txt",
+    "static/media/alcatrazislandpixel.png": "/GeoStellarBuild/static/media/alcatrazislandpixel.9a551445.png",
+    "static/media/buildingmonster.png": "/GeoStellarBuild/static/media/buildingmonster.0809746e.png",
+    "static/media/deforestationmonsterpixel.png": "/GeoStellarBuild/static/media/deforestationmonsterpixel.198649b2.png",
+    "static/media/dixiefiremonsterpixel.png": "/GeoStellarBuild/static/media/dixiefiremonsterpixel.e4f85471.png",
+    "static/media/ferrybuildingpixel.png": "/GeoStellarBuild/static/media/ferrybuildingpixel.c6a310e2.png",
+    "static/media/goldengatebridgepixel.png": "/GeoStellarBuild/static/media/goldengatebridgepixel.fb64240d.png",
+    "static/media/housingmonster.png": "/GeoStellarBuild/static/media/housingmonster.ee432bac.png",
+    "static/media/sfcityhallpixel.png": "/GeoStellarBuild/static/media/sfcityhallpixel.f033cfe3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a03a2fa.js",
+    "static/js/2.7a6d1677.chunk.js",
+    "static/css/main.7f9464cb.chunk.css",
+    "static/js/main.2ec3746f.chunk.js"
+  ]
+}
